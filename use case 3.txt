@@ -1,3 +1,0 @@
-use case 3:
-opponents:
-this is for finding opponent team  
