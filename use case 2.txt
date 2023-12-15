@@ -1,3 +1,0 @@
-use case 2:
-payment:
-this will handle the payemnts 
